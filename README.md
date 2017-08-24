@@ -1,2 +1,2 @@
 # ImageSearch
-A project mainly use HOG, SIFT to manipulate the iamges
+A project mainly use HOG, SIFT to manipulate the images
